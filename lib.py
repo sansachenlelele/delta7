@@ -11,6 +11,8 @@ from bokeh.plotting import figure, show, output_notebook
 
 import neuprint
 
+#added comment for test
+
 
 # NOTE: one distance unit in the connectome is 8nm, need to multiply by 8/1000 to get microns
 
